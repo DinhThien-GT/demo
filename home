@@ -1,0 +1,68 @@
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE-adge; charset=utf-8">
+<link rel="stylesheet" href="stylesheet.css">
+<title>MY FIRST PROJECT</title>
+</head>
+
+<body>
+<header class="header-1">
+<h1><span>Corps</span>Web Design</h1>
+<nav>
+<ul>
+<li><a href="Home.html">HOME</a></li>
+<li><a href="../about/About_page.html">ABOUT</a></li>
+<li><a href="../services/services.html">SERVICES</a></li>
+</ul>
+</nav>
+</header>
+<section>
+<div class="container">
+<div class="big-letter">
+Affordable Professional Web Sites
+</div>
+<div>
+<p>We provide affordable and highly professional Web Sites services. If you get anything better for less, we will give the website for free.</p>
+</div>
+</div></section>
+<section class="newsletter">
+<div class="sub">
+<h3>Subscribe to our Newsletter</h3>
+</div>
+  <section class="filed-mail">
+<div class="input-tab">
+<input class="input-field" type="text" placeholder="Enter email...">
+</div>
+<div class="butt">
+<button id="submit" type="submit">Subscribe</button>
+</div>
+  </section>
+</section>
+<div class="infor">
+<div class="arrange-cols">
+<img class="image-1" src="logo_html.png">
+<div>
+<h2>HTML Markup</h2>
+<p>Hypertext Markup Language is the standard markup language for creating web pages and web applications. It is used with CSS.</p>
+</div>
+</div>
+<div class="arrange-cols">
+<img class="image-1" src="logo_css.png">
+<div>
+<h2>CSS3 Styling</h2>
+<p>CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. </p>
+</div>
+</div>
+<div class="arrange-cols">
+<img class="image-1" src="logo_brush.png">
+<div>
+<h2>Graphics Design</h2>
+<p>Graphic design is the process of visual communication and problem-solving through the use of typography, photography and illustration.</p>
+</div>
+</div>
+</div>
+</body>
+
+
+
+
+<div id="lbdictex_find_popup" class="lbexpopup hidden" style="position: absolute; top: 0px; left: 0px;"><div class="lbexpopup_top"><h2 class="fl popup_title">&nbsp;</h2><ul><li><a href="#" class="close_main popup_close">&nbsp;</a></li></ul><div class="clr"></div></div><div class="popup_details"></div><div class="popup_powered">abc</div></div><div id="lbdictex_ask_mark" class="hidden" style="position: absolute; top: 88.2333px; left: 650.492px;"><a class="lbdictex_ask_select" href="#">&nbsp;</a></div></div></body><style type="text/css"></style>
